@@ -10,6 +10,14 @@ This repository contains the data generation pipeline and pose estimation code. 
 - Pose estimation using 6D rotation representation with geodesic loss.
 - Benchmark for mushroom detection, segmentation, and pose estimation.
 
+## Download
+Please use the following links to download the sample 2,000 scenes for each species (white/brown).
+
+[White Mushroom Set](https://zakerimushroom.sfo3.digitaloceanspaces.com/scenes-first2000-2025-11-02.tar.zst)
+[Brown Mushroom Set](https://zakerimushroom.sfo3.digitaloceanspaces.com/scenes_brown-first2000-2025-11-02.tar.zst)
+
+If you need access to the full set (40K scenes), please contact the author: azakeri@uh.edu
+
 ## Instructions to Run the Code
 
 ### Step 1: Create a Conda Environment
